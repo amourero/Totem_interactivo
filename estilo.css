@@ -1,0 +1,62 @@
+
+html {
+    font-size: 62.5%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: gainsboro;
+}
+
+h1{
+    font-size: 36px;
+}
+
+header nav {
+    position: top;
+    top: 130px;
+    width: 100%;
+    background-color:gray;
+    justify-content: center;
+}
+nav ul {
+    list-style: none;
+}
+nav ul li {
+    padding: 1rem 1.5rem;
+    display: inline-block;
+}
+nav ul li a {
+    font-size: 2.5rem;
+    color: black;
+}
+nav ul li a:hover {
+    font-size: 2.7rem;
+    color: gold;
+}
+
+img.Img{
+    width: 350px;
+    height: 400px;
+    display: inline;
+    margin: 2,5%;
+}
+
+p1{
+    font-size: large;
+}
+
+h2{
+    font-size: 35px;
+    background-color: gray;
+}
+
+footer{
+    font-size: 20px;
+    background-color: gray; 
+}
+
+
+
+
+    
